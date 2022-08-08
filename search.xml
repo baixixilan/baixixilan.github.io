@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>steam++挂卡</title>
+      <link href="/blog/steam-%E6%8C%82%E5%8D%A1/"/>
+      <url>/blog/steam-%E6%8C%82%E5%8D%A1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="steam-的挂卡教学"><a href="#steam-的挂卡教学" class="headerlink" title="steam++的挂卡教学"></a>steam++的挂卡教学</h1><p>首先打开steam++，点开自动挂卡<br>运行ASF功能，点新增bot<br>进入网页后点击新增机器人<br>然后是名字，steam账号，steam密码<br>把enabled勾上<br>CustomGamePlayedWhileFarming是状态，可以不让好友知道你在做什么<br>比如说我填abc，那么你在挂卡时，显示的不是你在运行游戏而是abc<br>最后保存就好了<br>回到steam++刷新bot之后会让你输入两步验证码<br>如果你的steam绑定的是邮箱就去邮箱收验证码手机就在steam软件上收<br>把收到的验证码输入到下面的控制台<br>就可以登陆进去了<br>不过要先加速steam<br>现在就可以挂卡了</p><h1 id="怎么快速卖卡"><a href="#怎么快速卖卡" class="headerlink" title="怎么快速卖卡"></a>怎么快速卖卡</h1><p>打开steam++的脚本配置<br>打开脚本工坊<br>下载GM脚本以及Steam Economy Enhancer<br>下载完成之后重新加速steam加载脚本<br>完成之后打开库存就会发现上面有一个出售所有物品跟出售所以卡片<br>这样就可以很方便地出售卡片了</p><p>如果出现卡片暂挂情况需要手机下载steam软件绑定手机账号然后在steam手机app上通过验证</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的世界java版的下载安装</title>
       <link href="/blog/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cjava%E7%89%88%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/"/>
       <url>/blog/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cjava%E7%89%88%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/</url>
